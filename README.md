@@ -43,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,figma,py,django,eclipse,java,c,cpp,html,css,js,bootstrap,pycharm,latex,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,figma,py,django,eclipse,java,c,html,css,js,bootstrap,latex,vscode&perline=14" />
   </a>
 </p>
 <!--- stats & Trophy (start) -->
