@@ -46,9 +46,12 @@
     <img src="https://skillicons.dev/icons?i=azure,gcp,aws,git,github,githubactions,bash,jenkins,kubernetes,maven,ansible,docker,prometheus,grafana,linux,mysql,figma,py,django,eclipse,java,c,html,css,js,bootstrap,latex,vscode&perline=14" />
   </a>
 </p>
-<!--- stats & Trophy (start) -->
-<p align="center">
   <!--- stats (start) -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Statistics</h2></summary>
+  </ul>
+</div>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
