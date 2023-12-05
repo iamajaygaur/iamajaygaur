@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **AWS, Jenkins, Cloud Fundamentals**
 
-- 📫 Feel free to reach me out **ajay94932@gmail.com**
+- 📫 Feel free to reach me out - **ajay94932@gmail.com**
 
 <!--Intro end-->
 
