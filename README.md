@@ -80,7 +80,7 @@
 ### 💬 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/iamajaygaur"><img src="https://img.shields.io/badge/LinkedIn-iamajaygaur-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:ajay94932@gmail.com"><img src="https://img.shields.io/badge/Email-ajay94932@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="mailto:igajaygaur@gmail.com"><img src="https://img.shields.io/badge/Email-ajay94932@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
   <a href="https://iamajaygaur.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=flat-square&logo=vercel" alt="Portfolio"/></a>
 </p>
 
