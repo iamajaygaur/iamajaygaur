@@ -22,7 +22,7 @@
 - 🌱 Learning **Ansible**, **Docker**, **Kubernetes**, and advanced **CI/CD automation**  
 - ☁️ Passionate about **Web Development** and **Cloud Architecture**  
 - 💬 Ask me about **AWS**, **Jenkins**, **Cloud Fundamentals**, or **Infrastructure as Code**  
-- 📫 Reach me at **ajay94932@gmail.com**
+- 📫 Reach me at **igajaygaur@gmail.com**
 
 ---
 
