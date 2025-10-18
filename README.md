@@ -6,9 +6,9 @@
 <p align="center">
   <a href="https://iamajaygaur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-iamajaygaur.vercel.app-blue?style=for-the-badge&logo=vercel" alt="portfolio" /></a>
   <a href="https://linkedin.com/in/iamajaygaur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:ajay94932@gmail.com"><img src="https://img.shields.io/badge/Email-ajay94932@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:ajay94932@gmail.com"><img src="https://img.shields.io/badge/Email-igajaygaur@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://x.com/iamajaygaurx"><img src="https://img.shields.io/badge/Twitter-iamajaygaurx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://instagram.com/iam.ajaygaur"><img src="https://img.shields.io/badge/Instagram-iam.ajaygaur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://www.instagram.com/iam_ajay.gaur/"><img src="https://img.shields.io/badge/Instagram-iam.ajaygaur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
 ---
