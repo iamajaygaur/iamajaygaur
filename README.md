@@ -74,9 +74,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamajaygaur&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/iamajaygaur" alt="Contribution Calendar" width="100%"/>
-
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section for your latest commits/actions -->
@@ -85,41 +82,6 @@
 - 🎉 Merged pull request [#2](https://github.com/iamajaygaur/ajaygaurx/pull/2) in [iamajaygaur/ajaygaurx](https://github.com/iamajaygaur/ajaygaurx)
 - 🚀 Created repository [iamajaygaur/demo_aws_cdk_ec2](https://github.com/iamajaygaur/demo_aws_cdk_ec2)
 <!--END_SECTION:activity-->
-
----
-
-## 🏗️ Project Showcase
-
-<div align="center">
-
-### 🌟 [Cloud Resume Challenge](https://github.com/iamajaygaur/Cloud-Resume-Challenge) <!-- TODO: Replace with an actual project and its link -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iamajaygaur&repo=Cloud-Resume-Challenge&theme=tokyonight)](https://github.com/iamajaygaur/Cloud-Resume-Challenge)
-
-**Tech Stack:** AWS Lambda • API Gateway • DynamoDB • S3 • JavaScript
-**Status:** ✅ Complete | ⭐ 5+ Stars | 🍴 2+ Forks
-*A fully serverless resume website built and hosted on AWS, demonstrating core cloud computing skills.*
-
----
-
-### 🔥 [Automated CI/CD Pipeline for Microservices](https://github.com/iamajaygaur/microservices-ci-cd-demo) <!-- TODO: Replace with an actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iamajaygaur&repo=microservices-ci-cd-demo&theme=tokyonight)](https://github.com/iamajaygaur/microservices-ci-cd-demo)
-
-**Tech Stack:** Docker • Kubernetes • Jenkins • GitHub Actions • Java/Spring Boot
-**Status:** 🚧 In Development | ⭐ 3+ Stars | 🍴 1+ Forks
-*A comprehensive CI/CD setup for deploying containerized microservices to a Kubernetes cluster.*
-
----
-
-### ⚡ [Infrastructure as Code (IaC) with AWS CDK](https://github.com/iamajaygaur/demo_aws_cdk_ec2) <!-- TODO: Replace with an actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=iamajaygaur&repo=demo_aws_cdk_ec2&theme=tokyonight)](https://github.com/iamajaygaur/demo_aws_cdk_ec2)
-
-**Tech Stack:** AWS CDK • Python • EC2 • VPC • CloudFormation
-**Status:** ✅ Complete | ⭐ 1+ Stars | 🍴 0 Forks
-*Demonstrates provisioning and managing AWS resources (like EC2 instances within a VPC) using Python with AWS Cloud Development Kit.*
-
-</div>
-
----
 
 ## 🎓 Certifications & Achievements
 - 🏆 **AWS Certified Solutions Architect - Associate** <!-- TODO: Add your actual AWS certifications -->
